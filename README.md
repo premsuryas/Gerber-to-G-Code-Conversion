@@ -25,21 +25,27 @@ Copper CAM
 
 
 # G Code
-### Engraving G Code
+### Engraving G Code:
+!(![u1](https://github.com/premsuryas/Gerber-to-G-Code-Conversion/assets/147473858/7781d992-9643-41a5-a323-6535d1d42f03)
+)
 
 
 
 
 
 
-### Drill G Code
+### Drill G Code:
+!(![u2](https://github.com/premsuryas/Gerber-to-G-Code-Conversion/assets/147473858/e174a1a3-5d44-4617-9921-54ef5d65d581)
+)
 
 
 
 
 
 
-### Cutting G Code
+### Cutting G Code:
+!(![u3](https://github.com/premsuryas/Gerber-to-G-Code-Conversion/assets/147473858/84d0e62d-52f1-4ef4-a5d6-29364dda9156)
+)
 
 
 
